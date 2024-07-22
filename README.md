@@ -1,28 +1,40 @@
 <h1 align="center">Hello 👋, I'm Manjusri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br>
+ <img align="left" src="https://visitcount.itsvg.in/api?id=manjusrisadhasivam&icon=4&color=5"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjusrisadhasivam&label=Profile%20views&color=0e75b6&style=flat" alt="manjusrisadhasivam" /> </p>
+<img align="right" width="300" src="https://github.com/user-attachments/assets/7c09e228-9635-44a3-a42e-6dc97b4d023f"/><br>
 
+
+<h3> 💫 About Me:</h3>
+
+🔭 I’m currently working on **frontend developer** <br>
+🌱 I’m currently learning **Javascript,react.js** <br>
+💬 Ask me about  **frontend developing** <br>
+📫 How to reach me **manjusrisadhasivam@gmail.com** <br>
+⚡ Fun fact **funny**
+<br><br>
+
+## 🏆 GitHub Trophies
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjusrisadhasivam" alt="manjusrisadhasivam" /></a> </p>
 
-- 🔭 I’m currently working on **frontend developer**
 
-- 🌱 I’m currently learning **Javascript,react.js**
+## 🌐 Socials:
 
-- 💬 Ask me about **frontend developing**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.__.ri..) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manjusri.S) 
 
-- 📫 How to reach me **manjusrisadhasivam@gmail.com**
+## 💻 Tech Stack:
 
-- ⚡ Fun fact **funny**
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manjusri.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjusri.s" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![](https://github-readme-stats.vercel.app/api?username=manjusrisadhasivam&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjusrisadhasivam&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjusrisadhasivam&show_icons=true&locale=en&layout=compact" alt="manjusrisadhasivam" /></p>
+## 🔝 Top Contributed Repo
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjusrisadhasivam&show_icons=true&locale=en" alt="manjusrisadhasivam" /></p>
+![](https://github-contributor-stats.vercel.app/api?username=manjusrisadhasivam&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
